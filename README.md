@@ -1,1 +1,1 @@
-# This is a clone of amazon's user interface.
+# This is a UI clone of amazon's home page.
